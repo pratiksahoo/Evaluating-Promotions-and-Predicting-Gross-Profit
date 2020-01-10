@@ -16,6 +16,6 @@ Promo_Scores.xslx: Calculations of all the promtion scores documented in an exce
 
 regression_test.csv: Preducted vs Observed Gross Profit Values and RMSE value for checking accuracy of the regression model
 
-MA_final.pptx: powerpoint presentation of the project which contains Description of the Dataset, Data Processing and Preparation, Clustering output, Scoring Promotions, Analysis of drivers behind Promotion Scores, Item-wise Analysis, Store-wise Analysis, Prediction Profit Share, Conclusions and Future Work
+MA_final.pdf: Documentation of the project which contains Description of the Dataset, Data Processing and Preparation steps, Clustering output, Methods of Scoring Promotions, Analysis of drivers behind Promotion Scores, Item-wise Analysis, Store-wise Analysis, Prediction of Profit Share, Conclusions and Future Work
 
 cereals.csv: Dataset of all the cereals sold from April 2018 to September 2018
